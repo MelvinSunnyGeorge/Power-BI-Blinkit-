@@ -1,1 +1,4 @@
-# Power-BI-Blinkit-
+# Blinkit Visualization  using Power BI
+
+
+![netflix logo]()
